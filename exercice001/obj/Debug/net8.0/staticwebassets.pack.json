@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\img\\icons\\icon-black.jpg",
+      "PackagePath": "staticwebassets\\img\\icons\\icon-black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\img\\icons\\icon-red.jpg",
+      "PackagePath": "staticwebassets\\img\\icons\\icon-red.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\img\\icons\\icon-silver.jpg",
+      "PackagePath": "staticwebassets\\img\\icons\\icon-silver.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\img\\icons\\icon-steel.jpg",
+      "PackagePath": "staticwebassets\\img\\icons\\icon-steel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\img\\products\\black-car.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\black-car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\img\\products\\red-car.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\red-car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\img\\products\\silver-car.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\silver-car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\Upload_file\\Exercise_Buoi24\\exercice001\\wwwroot\\img\\products\\steel-car.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\steel-car.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.exercice001.props",
+      "PackagePath": "build\\exercice001.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.exercice001.props",
+      "PackagePath": "buildMultiTargeting\\exercice001.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.exercice001.props",
+      "PackagePath": "buildTransitive\\exercice001.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.exercice001.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

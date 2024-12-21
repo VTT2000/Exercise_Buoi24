@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = exercise002
+build_property.RootNamespace = exercise002
+build_property.ProjectDir = C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\Upload_file\Exercise_Buoi24\exercise002\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\Upload_file\Exercise_Buoi24\exercise002
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Components/SiderBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaWRlckJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Pages/Awards.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Pages/Education.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWR1Y2F0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Pages/Experience.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpZW5jZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Pages/Interests.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW50ZXJlc3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Pages/Skills.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tpbGxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Shared/UserMasterPage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVzZXJNYXN0ZXJQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/Upload_file/Exercise_Buoi24/exercise002/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

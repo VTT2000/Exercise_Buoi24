@@ -1,0 +1,48 @@
+﻿@page "/"
+
+@* <h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" /> *@
+
+@layout UserMasterPage
+
+<div class="container">
+    <h1>Exercise001</h1>
+    <h2>Change color car</h2>
+    <div class="row">
+        <img class="col-6" src="@src" alt="">
+        <div class="col-6">
+            @{
+                foreach(var item in list){
+                    <button @onclick="() => HandleOnCLickButton(item.Id)" style="background-color: @item.NameColor.ToLower(); margin-right: 1rem; color: white; outline: none; border: 0; border-radius: 0.2rem;">@item.NameColor color</button>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+@code{
+    private string src {get;set;} = "/img/products/black-car.jpg";
+    List<ColorCarViewModel> list = new List<ColorCarViewModel>(){
+        new ColorCarViewModel(){
+            Id = 1, NameColor = "Red", ImgSrc="/img/products/red-car.jpg"
+        },
+        new ColorCarViewModel(){
+            Id = 2, NameColor = "Silver", ImgSrc="/img/products/silver-car.jpg"
+        },
+        new ColorCarViewModel(){
+            Id = 3, NameColor = "Black", ImgSrc="/img/products/black-car.jpg"
+        },
+    };
+
+    private void HandleOnCLickButton(int Id){
+        foreach(var item in list){
+            if(item.Id.Equals(Id)){
+                src = item.ImgSrc;
+                break;
+            }
+        }
+    }
+}
